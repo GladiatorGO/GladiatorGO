@@ -1,1 +1,5 @@
 pymongo[srv]
+fastapi[standard]
+passlib[bcrypt]
+pydantic
+pyjwt
